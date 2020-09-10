@@ -1,12 +1,12 @@
 # Svetlana Gubina
 
-**+7(965) 008 - 47 - 33**
+**+7 (965) 008 - 47 - 33**
 
 **gubinas83@gmail.com**
 
 ## Summary
 
-I am intrested in learning new things, finding solutions with a code, building interfaces.My specialization has almost nothing in common with programming, so it is some kind of challenge for me to change thi field and try to build myself as a professional from sratch.
+I am intrested in learning new things, finding solutions with a code, building interfaces. My specialization has almost nothing in common with programming, so it is some kind of challenge for me to change thi field and try to build myself as a professional from sratch.
 
 ### Skills
 
@@ -14,9 +14,9 @@ Html markup creation(valid, semantic, responsive), CSS, css - preprocessors(LESS
 
 ## My latest projects
 
-[SpaceX_promo](https://svetlana-gubina.github.io/spaceXpromo/)
+- [SpaceX_promo](https://svetlana-gubina.github.io/spaceXpromo/)
 
-[Ztunes](https://svetlana-gubina.github.io/ZTunes/)
+- [Ztunes](https://svetlana-gubina.github.io/ZTunes/)
 
 ## Experience
 
